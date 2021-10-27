@@ -15,6 +15,7 @@
 		FCC8DDE42728E2AD00DAE14A /* PhotoToolTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FCC8DDE32728E2AD00DAE14A /* PhotoToolTests.m */; };
 		FCC8DDEE2728E2AD00DAE14A /* PhotoToolUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = FCC8DDED2728E2AD00DAE14A /* PhotoToolUITests.m */; };
 		FCC8DDF02728E2AD00DAE14A /* PhotoToolUITestsLaunchTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FCC8DDEF2728E2AD00DAE14A /* PhotoToolUITestsLaunchTests.m */; };
+		FCC8DDFD2728E60900DAE14A /* PhotoConfiguration.plist in Resources */ = {isa = PBXBuildFile; fileRef = FCC8DDFC2728E60900DAE14A /* PhotoConfiguration.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		FCC8DDE92728E2AD00DAE14A /* PhotoToolUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoToolUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCC8DDED2728E2AD00DAE14A /* PhotoToolUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PhotoToolUITests.m; sourceTree = "<group>"; };
 		FCC8DDEF2728E2AD00DAE14A /* PhotoToolUITestsLaunchTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PhotoToolUITestsLaunchTests.m; sourceTree = "<group>"; };
+		FCC8DDFC2728E60900DAE14A /* PhotoConfiguration.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PhotoConfiguration.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				FCC8DDD52728E2AC00DAE14A /* Main.storyboard */,
 				FCC8DDD82728E2AC00DAE14A /* main.m */,
 				FCC8DDDA2728E2AC00DAE14A /* PhotoTool.entitlements */,
+				FCC8DDFC2728E60900DAE14A /* PhotoConfiguration.plist */,
 			);
 			path = PhotoTool;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FCC8DDFD2728E60900DAE14A /* PhotoConfiguration.plist in Resources */,
 				FCC8DDD42728E2AC00DAE14A /* Assets.xcassets in Resources */,
 				FCC8DDD72728E2AC00DAE14A /* Main.storyboard in Resources */,
 			);

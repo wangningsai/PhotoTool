@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iPhone AppIcons</key>
+	<array>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone Notification 2x</string>
+			<key>name</key>
+			<string>AppIcon-iPhone-20@2x</string>
+			<key>size</key>
+			<string>{40,40}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone Notification 3x</string>
+			<key>name</key>
+			<string>AppIcon-iPhone-20@3x</string>
+			<key>size</key>
+			<string>{60,60}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone Settings 2x</string>
+			<key>name</key>
+			<string>AppIcon-iPhone-29@2x</string>
+			<key>size</key>
+			<string>{58,58}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone Settings 3x</string>
+			<key>name</key>
+			<string>AppIcon-iPhone-29@3x</string>
+			<key>size</key>
+			<string>{87,87}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone Spotlight 2x</string>
+			<key>name</key>
+			<string>AppIcon-iPhone-40@2x</string>
+			<key>size</key>
+			<string>{80,80}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone Spotlight 3x</string>
+			<key>name</key>
+			<string>AppIcon-iPhone-40@3x</string>
+			<key>size</key>
+			<string>{120,120}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone App 2x</string>
+			<key>name</key>
+			<string>AppIcon-iPhone-60@2x</string>
+			<key>size</key>
+			<string>{120,120}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone App 3x</string>
+			<key>name</key>
+			<string>AppIcon-iPhone-60@3x</string>
+			<key>size</key>
+			<string>{180,180}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>App Store</string>
+			<key>name</key>
+			<string>AppIcon-AppStore-1024</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+	</array>
+	<key>iPhone LaunchImages Portrait</key>
+	<array>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone Xs Max Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-iPhone-414x896@3x</string>
+			<key>size</key>
+			<string>{1242,2688}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone Xr Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-iPhone-414x896@2x</string>
+			<key>size</key>
+			<string>{828,1792}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone X/Xs Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-iPhone-375x812@3x</string>
+			<key>size</key>
+			<string>{1125,2436}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Retina HD 5.5″ Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-iPhone-414x736@3x</string>
+			<key>size</key>
+			<string>{1242,2208}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Retina HD 4.7″ Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-iPhone-375x667@2x</string>
+			<key>size</key>
+			<string>{750,1334}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>2x Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-iPhone-320x480@2x</string>
+			<key>size</key>
+			<string>{640,960}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Retina 4 Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-iPhone-320x568@2x</string>
+			<key>size</key>
+			<string>{640,1136}</string>
+		</dict>
+	</array>
+	<key>iPhone LaunchImages Landscape</key>
+	<array>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone Xs Max Landscape</string>
+			<key>name</key>
+			<string>LaunchImage-iPhone-896x414@3x</string>
+			<key>size</key>
+			<string>{2688,1242}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone Xr Landscape</string>
+			<key>name</key>
+			<string>LaunchImage-iPhone-896x414@2x</string>
+			<key>size</key>
+			<string>{1792,828}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPhone X/Xs Landscape</string>
+			<key>name</key>
+			<string>LaunchImage-iPhone-812x375@3x</string>
+			<key>size</key>
+			<string>{2436,1125}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Retina HD 5.5″ Landscape</string>
+			<key>name</key>
+			<string>LaunchImage-iPhone-736x414@3x</string>
+			<key>size</key>
+			<string>{2208,1242}</string>
+		</dict>
+	</array>
+	<key>iPad AppIcons</key>
+	<array>
+		<dict>
+			<key>purpose</key>
+			<string>iPad Notifications 1x</string>
+			<key>name</key>
+			<string>AppIcon-iPad-20</string>
+			<key>size</key>
+			<string>{20,20}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPad Notifications 2x</string>
+			<key>name</key>
+			<string>AppIcon-iPad-20@2x</string>
+			<key>size</key>
+			<string>{40,40}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPad Settings 1x</string>
+			<key>name</key>
+			<string>AppIcon-iPad-29</string>
+			<key>size</key>
+			<string>{29,29}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPad Settings 2x</string>
+			<key>name</key>
+			<string>AppIcon-iPad-29@2x</string>
+			<key>size</key>
+			<string>{58,58}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPad Spotlight 1x</string>
+			<key>name</key>
+			<string>AppIcon-iPad-40</string>
+			<key>size</key>
+			<string>{40,40}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPad Spotlight 2x</string>
+			<key>name</key>
+			<string>AppIcon-iPad-40@2x</string>
+			<key>size</key>
+			<string>{80,80}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPad App 1x</string>
+			<key>name</key>
+			<string>AppIcon-iPad-76</string>
+			<key>size</key>
+			<string>{76,76}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPad App 2x</string>
+			<key>name</key>
+			<string>AppIcon-iPad-76@2x</string>
+			<key>size</key>
+			<string>{152,152}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>iPad Pro 2x</string>
+			<key>name</key>
+			<string>AppIcon-iPad-83.5@2x</string>
+			<key>size</key>
+			<string>{167,167}</string>
+		</dict>
+	</array>
+	<key>iPad LaunchImages Portrait</key>
+	<array>
+		<dict>
+			<key>purpose</key>
+			<string>1x Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-iPad-768x1024</string>
+			<key>size</key>
+			<string>{768,1024}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>2x Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-iPad-768x1024@2x</string>
+			<key>size</key>
+			<string>{1536,2048}</string>
+		</dict>
+	</array>
+	<key>iPad LaunchImages Landscape</key>
+	<array>
+		<dict>
+			<key>purpose</key>
+			<string>1x Landscape</string>
+			<key>name</key>
+			<string>LaunchImage-iPad-1024x768</string>
+			<key>size</key>
+			<string>{1024,768}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>2x Landscape</string>
+			<key>name</key>
+			<string>LaunchImage-iPad-1024x768@2x</string>
+			<key>size</key>
+			<string>{2048,1536}</string>
+		</dict>
+	</array>
+	<key>Mac AppIcons</key>
+	<array>
+		<dict>
+			<key>purpose</key>
+			<string>Mac</string>
+			<key>name</key>
+			<string>AppIcon-Mac-16</string>
+			<key>size</key>
+			<string>{16,16}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Mac</string>
+			<key>name</key>
+			<string>AppIcon-Mac-16@2x</string>
+			<key>size</key>
+			<string>{32,32}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Mac</string>
+			<key>name</key>
+			<string>AppIcon-Mac-32</string>
+			<key>size</key>
+			<string>{32,32}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Mac</string>
+			<key>name</key>
+			<string>AppIcon-Mac-32@2x</string>
+			<key>size</key>
+			<string>{64,64}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Mac</string>
+			<key>name</key>
+			<string>AppIcon-Mac-128</string>
+			<key>size</key>
+			<string>{128,128}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Mac</string>
+			<key>name</key>
+			<string>AppIcon-Mac-128@2x</string>
+			<key>size</key>
+			<string>{256,256}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Mac</string>
+			<key>name</key>
+			<string>AppIcon-Mac-256</string>
+			<key>size</key>
+			<string>{256,256}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Mac</string>
+			<key>name</key>
+			<string>AppIcon-Mac-256@2x</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Mac</string>
+			<key>name</key>
+			<string>AppIcon-Mac-512</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Mac</string>
+			<key>name</key>
+			<string>AppIcon-Mac-512@2x</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+	</array>
+	<key>Watch AppIcons</key>
+	<array>
+		<dict>
+			<key>purpose</key>
+			<string>Notification Center</string>
+			<key>name</key>
+			<string>AppIcon-Watch-24@2x</string>
+			<key>size</key>
+			<string>{48,48}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Notification Center</string>
+			<key>name</key>
+			<string>AppIcon-Watch-27.5@2x</string>
+			<key>size</key>
+			<string>{55,55}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Companion Settings</string>
+			<key>name</key>
+			<string>AppIcon-Watch-29@2x</string>
+			<key>size</key>
+			<string>{58,58}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Companion Settings</string>
+			<key>name</key>
+			<string>AppIcon-Watch-29@3x</string>
+			<key>size</key>
+			<string>{87,87}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>App Launcher</string>
+			<key>name</key>
+			<string>AppIcon-Watch-40@2x</string>
+			<key>size</key>
+			<string>{80,80}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>App Launcher</string>
+			<key>name</key>
+			<string>AppIcon-Watch-44@2x</string>
+			<key>size</key>
+			<string>{88,88}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>App Launcher</string>
+			<key>name</key>
+			<string>AppIcon-Watch-50@2x</string>
+			<key>size</key>
+			<string>{100,100}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Quick Look</string>
+			<key>name</key>
+			<string>AppIcon-Watch-86@2x</string>
+			<key>size</key>
+			<string>{172,172}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Quick Look</string>
+			<key>name</key>
+			<string>AppIcon-Watch-98@2x</string>
+			<key>size</key>
+			<string>{196,196}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>Quick Look</string>
+			<key>name</key>
+			<string>AppIcon-Watch-108@2x</string>
+			<key>size</key>
+			<string>{216,216}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>App Store</string>
+			<key>name</key>
+			<string>AppIcon-Watch-1024</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+	</array>
+	<key>CarPlay AppIcons</key>
+	<array>
+		<dict>
+			<key>purpose</key>
+			<string>CarPlay</string>
+			<key>name</key>
+			<string>AppIcon-CarPlay-60@2x</string>
+			<key>size</key>
+			<string>{120,120}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>CarPlay</string>
+			<key>name</key>
+			<string>AppIcon-CarPlay-60@3x</string>
+			<key>size</key>
+			<string>{180, 180}</string>
+		</dict>
+	</array>
+	<key>Android AppIcons</key>
+	<array>
+		<dict>
+			<key>purpose</key>
+			<string>LDPI</string>
+			<key>name</key>
+			<string>AppIcon-Android-36</string>
+			<key>size</key>
+			<string>{36,36}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>MDPI</string>
+			<key>name</key>
+			<string>AppIcon-Android-48</string>
+			<key>size</key>
+			<string>{48,48}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>HDPI</string>
+			<key>name</key>
+			<string>AppIcon-Android-72</string>
+			<key>size</key>
+			<string>{72,72}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>XHDPI</string>
+			<key>name</key>
+			<string>AppIcon-Android-96</string>
+			<key>size</key>
+			<string>{96,96}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>XXHDPI</string>
+			<key>name</key>
+			<string>AppIcon-Android-144</string>
+			<key>size</key>
+			<string>{144,144}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>XXXHDPI</string>
+			<key>name</key>
+			<string>AppIcon-Android-192</string>
+			<key>size</key>
+			<string>{192,192}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>NA</string>
+			<key>name</key>
+			<string>AppIcon-Android-512</string>
+			<key>size</key>
+			<string>{512,512}</string>
+		</dict>
+	</array>
+	<key>Android LaunchImages Portrait</key>
+	<array>
+		<dict>
+			<key>purpose</key>
+			<string>720P Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-Android-720x1080</string>
+			<key>size</key>
+			<string>{720,1080}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>1080P Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-Android-1080x1920</string>
+			<key>size</key>
+			<string>{1080,1920}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>1080P+ Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-Android-1080x2160</string>
+			<key>size</key>
+			<string>{1080,2160}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>2K Portrait</string>
+			<key>name</key>
+			<string>LaunchImage-Android-1440x2560</string>
+			<key>size</key>
+			<string>{1440,2560}</string>
+		</dict>
+	</array>
+	<key>Android LaunchImages Landscape</key>
+	<array>
+		<dict>
+			<key>purpose</key>
+			<string>720P Landscape</string>
+			<key>name</key>
+			<string>LaunchImage-Android-1080x720</string>
+			<key>size</key>
+			<string>{1080,720}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>1080P Landscape</string>
+			<key>name</key>
+			<string>LaunchImage-Android-1920x1080</string>
+			<key>size</key>
+			<string>{1920,1080}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>1080P+ Landscape</string>
+			<key>name</key>
+			<string>LaunchImage-Android-2160x1080</string>
+			<key>size</key>
+			<string>{1080,2160}</string>
+		</dict>
+		<dict>
+			<key>purpose</key>
+			<string>2K Landscape</string>
+			<key>name</key>
+			<string>LaunchImage-Android-2560x1440</string>
+			<key>size</key>
+			<string>{2560,1440}</string>
+		</dict>
+	</array>
+</dict>
+</plist>

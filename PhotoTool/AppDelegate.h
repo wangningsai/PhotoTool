@@ -2,7 +2,8 @@
 //  AppDelegate.h
 //  PhotoTool
 //
-//  Created by 沃森小哥哥 on 2021/10/27.
+//  Created by huangxianshuai on 2021/10/27.
+//  Copyright © 2021年 Mr.Wang. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>
